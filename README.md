@@ -11,5 +11,6 @@
 silly doodle drawn by me (๑>؂•̀๑)
 
 <img 
-  width="100" src="![image](https://github.com/user-attachments/assets/b8e025dc-ff2f-482f-b233-14ff62a0581a"/>
+  width="45"
+  src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeWp6bHMyM2N2djM3OHJocnA4cDBpMTBvbmNuNmw3anZrMThnaXhxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ecr5iLMzSk0N2HrBeD/giphy.gif"/>
 
