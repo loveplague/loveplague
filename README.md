@@ -1,4 +1,5 @@
-<img width="715" height="448" alt="image" src="https://github.com/user-attachments/assets/9e9ad146-3908-40a5-a9c0-7584f0b635f8" />
+![image](https://github.com/user-attachments/assets/7352b508-e020-4dca-88c1-84c46e3847d5)
+
 
 <div align="center">
 
@@ -8,8 +9,8 @@
   </div>
 <a href="https://pronouns.cc/@kisswoofi">prnouns</a> . <a href="https://softgreasy.straw.page/">strawpage</a>
 
+art by @errattas
 
-silly doodle drawn by me (๑>؂•̀๑)
 
 <img 
   width="45"
